@@ -20,9 +20,9 @@ autoNumber: "AMS"
 
 
 ---
-title: "Welcome to my blog"
+title: "Bienvenido al blob"
 ---
 
-empecemos con la primera ebtrada ...
+aui metemos una descripcion del blog con algunas cosas ...
 \\( a^2 = b^2 \\)
 $$ a_1^2 $$
